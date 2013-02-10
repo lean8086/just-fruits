@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Just Fruits</title>
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600"/>
+        <link rel="stylesheet" href="just-fruits.css"/>
+    </head>
+    <body>
+        <h1>Just Fruits</h1>
+        <p>Collect as many fruits as possible in 60 seconds.</p>
+
+        <div id="display">
+            <p id="data" style="position:absolute; top:0; left:0; right:0; height:50px; line-height:50px; margin:0; border-bottom:1px solid #ccc; background-color:rgba(240, 240, 240, 0.5); z-index:-1; color:#999; font-size:1.2em;">Time: <span id="tiempo">60</span> - Fruits: <span id="puntos">0</span></p>
+
+            <p id="hurry" style="z-index:2; font-size:100px; width:960px; height:100px; position:absolute; text-align:center; left:0; top:150px;"></p>
+        </div>
+
+        <aside>
+            <p>Use <strong>A,S,D,W</strong> to walk.</p>
+            <p>Experiment by <a href="http://leanlinares.me">Leandro Linares</a></p>
+        </aside>
+
+        <a href="https://github.com/llinares/just-fruits" target="_blank">
+            <img src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" class="gh-ribbon" />
+        </a>
+
+        <script src="just-fruits.js"></script>
+    </body>
+</html>
