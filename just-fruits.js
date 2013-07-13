@@ -6,7 +6,7 @@
 
     var document = window.document,
         Number = window.Number,
-        display = document.getElementById('display'),
+        display = document.getElementsByTagName('section')[0],
         displayWidth = 960,
         displayHeight = 400,
         intTiempo,
