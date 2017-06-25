@@ -2,7 +2,7 @@
 Collect as many fruits as possible in 60 seconds.
 This was my first JavaScript experiment. It was created between 2008 and 2009.
 
-[Try demo!](http://llinares.github.com/just-fruits/)
+[Try demo!](https://www.lean8086.com/labs/just-fruits/)
 
 ## Instructions
 * W: Up
@@ -11,4 +11,4 @@ This was my first JavaScript experiment. It was created between 2008 and 2009.
 * D: Right
 
 ## Contact
-Experiment by [Leandro Linares](http://leanlinares.me)
+Experiment by [Lean Linares](https://www.lean8086.com/)
